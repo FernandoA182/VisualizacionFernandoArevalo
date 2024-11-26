@@ -1,4 +1,4 @@
-Contenido los siguientes notebooks:
+Contenidos los siguientes notebooks:
 
 - "0. Intsllal_pyspark-FerPracticed.ipynb"
 - "0.1. RDD_pyspark-FerPracticed.ipynb"
