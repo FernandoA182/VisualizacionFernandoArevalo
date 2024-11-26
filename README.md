@@ -47,13 +47,13 @@ La estructura que tiene nuestro repositorio es la siguiente:
     ├── TrabajosExtraclase              <- Carpeta de trabajos extra clase    
     |    |── README.md                  <- Descripción general del contenido de la carpeta.
     |    └──  Challenge1                <- Carpeta contiene el notebook del challenge.
-    |          └──  README.md             <- Descripción general del contenido de la carpeta.
+    |          └──  README.md           <- Descripción general del contenido de la carpeta.
     |          └──  FernandoArevalo-Challenge1Basico.ipynb                     <- Notebbok.
     |    └──  Challenge2                <- Carpeta contiene el notebook del challenge.
-    |          └──  README.md             <- Descripción general del contenido de la carpeta.
+    |          └──  README.md           <- Descripción general del contenido de la carpeta.
     |          └──  FernandoArevalo-Challenge2Intermedio.ipynb                 <- Notebbok.
     |    └──  Challenge3                <- Carpeta contiene el notebook del challenge.
-    |          └──  README.md             <- Descripción general del contenido de la carpeta.
+    |          └──  README.md           <- Descripción general del contenido de la carpeta.
     |          └──  FernandoArevalo-Challenge3Avanzado.ipynb                   <- Notebbok.
     |          └──  FernandoArevalo-Challenge3Avanzado.pdf                     <- Presentación.
     |          └──  Data                                                       <- Carpeta Data.
